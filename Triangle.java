@@ -1,5 +1,5 @@
  
-package week3ex1;
+ 
 
  
 public class Triangle extends Shape{
