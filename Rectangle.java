@@ -1,5 +1,4 @@
  
-package week3ex1;
 
  
 public class Rectangle extends Shape {
